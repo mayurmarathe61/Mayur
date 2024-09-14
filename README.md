@@ -1,6 +1,4 @@
                                             Hi👋, I'm Mayur Marathe
-                                            
-                                      A passionate Data Analyst📊 from India
                                       
 - 🔭 I’m a life long learner, currently exploring more about Data Analytics!
 - 🌱 I’m currently learning and upskilling myself.
@@ -9,4 +7,4 @@
 - 💬 Ask me about SQL, Power BI.
 - 📫 Reach me at Gmail - mayurmarathe61@gmail.com
 - 🔗 Connect with me at LinkedIn - www.linkedin.com/in/mayur-marathe-212432239
-- ❤️ I love learning new things!
+- ❤️ I love learning new things.
